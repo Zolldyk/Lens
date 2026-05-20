@@ -6,8 +6,8 @@ Gemma 4 Challenge.
 
 Two visible Gemma 4 capabilities are wired in:
 
-- 🧠 **Thinking mode** — surfaces the model's reasoning trace alongside the answer.
-- 🎯 **Element detection** — Gemma 4 returns bounding boxes natively; Lens overlays them on the uploaded image.
+- **Thinking mode** — surfaces the model's reasoning trace alongside the answer.
+- **Element detection** — Gemma 4 returns bounding boxes natively; Lens overlays them on the uploaded image.
 
 ## Requirements
 
