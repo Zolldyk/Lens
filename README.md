@@ -57,7 +57,7 @@ to cap the number of images.
 
 | Model ID | Type | Default? |
 |---|---|---|
-| `gemma-4-26b-a4b-it` | MoE — fast, lighter on tokens | ✅ default |
+| `gemma-4-26b-a4b-it` | MoE — fast, lighter on tokens | default |
 | `gemma-4-31b-it` | Dense flagship — slower, stronger reasoning | toggle in sidebar |
 
 The edge variants (E2B / E4B) are not exposed via the Gemini API and so are
