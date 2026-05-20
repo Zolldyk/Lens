@@ -87,7 +87,3 @@ present in Gemma 3:
 
 - Native structured JSON for object detection (no grammar-constrained generation)
 - A `thinking` mode that exposes reasoning traces (with a graceful prompt-based fallback if the SDK doesn't expose `thinking_config` directly — `gemma_client.py` probes on first call and adapts)
-
-Both are visible in the UI and captured in the test report — they're the
-strongest evidence you used Gemma 4 _intentionally_ rather than dropping a
-prompt into any LLM.
